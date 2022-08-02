@@ -1,0 +1,13 @@
+C:\Users\sitra\source\repos\AddInventory\bin\Debug\AddInventory.exe.config
+C:\Users\sitra\source\repos\AddInventory\bin\Debug\AddInventory.exe
+C:\Users\sitra\source\repos\AddInventory\bin\Debug\AddInventory.pdb
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.csproj.AssemblyReference.cache
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.Form1.resources
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.Properties.Resources.resources
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.csproj.GenerateResource.cache
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.csproj.CoreCompileInputs.cache
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.exe
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.pdb
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.MainWindow.resources
+C:\Users\sitra\source\repos\AddInventory\obj\Debug\AddInventory.LoginForm.resources
